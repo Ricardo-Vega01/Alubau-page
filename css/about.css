@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  text-align: justify;
+  font-family: 'Montserrat', sans-serif;
+}
+.nav-link:hover{
+  text-decoration: underline;
+  opacity: 0.75;
+  color: #f00;
+}
+.fa-facebook,
+.fa-instagram,
+.fa-envelope,
+.fa-whatsapp{
+    height: 1.4rem;
+}

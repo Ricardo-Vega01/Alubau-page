@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+.nav-link:hover{
+  text-decoration: underline;
+  opacity: 0.75;
+  color: #f00;
+}
+.alutemp,
+.info-curvo,
+.semi-templado{
+  text-align: justify;
+}
+.list-group-item:hover{
+  background-color: cornflowerblue;
+}
+.list-group-item:hover a{
+  color: azure;
+  text-decoration: none;
+}
+
+.fa-whatsapp{
+    height: 3em;
+}
+
+  
